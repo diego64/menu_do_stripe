@@ -11,10 +11,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="CloneDiscord" src=".github/Capturar3.PNG" width="100%">
-</p>
-
 ## 🎮 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
