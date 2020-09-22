@@ -26,4 +26,4 @@ O objetivo é clonar a interface Web do Discord... os dados da aplicação Web s
 
 ## 🎥 Referencia 
 
-Menu do Stripe com ReactJS | UI Clone (Canal do YouTube da Rockseat)
+Menu do Stripe com ReactJS | UI Clone (Canal do YouTube da Rockseat) 
